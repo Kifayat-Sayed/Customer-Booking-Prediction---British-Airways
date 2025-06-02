@@ -147,11 +147,13 @@ This model enables British Airways to:
 
 ## Acknowledgment
 
-This project was completed as part of a **Data Science Internship / Job Simulation**, and I am sincerely grateful to **British Airways** for providing the dataset, business context, and the opportunity to work on such a meaningful problem.
+This project was completed as part of a **Data Science Internship / Job Simulation**, simulating real-world challenges in the airline industry.
 
-Thank you for the opportunity to contribute, learn, and apply machine learning to a real-world airline booking scenario.
+I would like to sincerely thank:
 
----
+- **British Airways** for providing the project, dataset, and the opportunity to work on a practical and impactful business case.
+- The organizers and mentors who guided the simulation and ensured a structured, industry-aligned learning experience.
+- Everyone involved for enabling me to apply machine learning techniques to real-world customer behavior modeling and gain hands-on experience in predictive analytics.
 
 ---
 
